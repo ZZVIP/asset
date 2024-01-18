@@ -24,14 +24,14 @@
         "name": "玩偶【📺】",
         "type": 3,
         "api": "./wogg_open.js",
-        "ext": "填你的阿里token"
+        "ext": "e73ff6b34c024d4d896086883927bd2c"
    },  
    {
         "key": "wobg",
         "name": "玩偶2【📺】",
         "type": 3,
         "api": "./wobg.js",
-        "ext": "填你的阿里token"
+        "ext": "e73ff6b34c024d4d896086883927bd2c"
    },  
 {
         "key": "ytvip",
@@ -348,21 +348,21 @@
         "name": "七夜搜索",
         "type": 3,
         "api": "./js/dovx_open.js",
-        "ext": "填你的阿里token"
+        "ext": "e73ff6b34c024d4d896086883927bd2c"
       },
       {
         "key": "pansearch",
         "name": "盘搜阿里",
         "type": 3,
         "api": "./js/pansearch_open.js",
-        "ext": "填你的阿里token"
+        "ext": "e73ff6b34c024d4d896086883927bd2c"
       },
    {
         "key": "pansou",
         "name": "阿里搜索",
         "type": 3,
         "api": "./pansou_open.js",
-        "ext": "填你的阿里token"
+        "ext": "e73ff6b34c024d4d896086883927bd2c"
       },
 {"key":"funletu",
 "name":"夸克盘搜",
